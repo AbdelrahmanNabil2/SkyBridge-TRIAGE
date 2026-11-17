@@ -1,0 +1,33 @@
+{
+  "flights_total": 30000,
+  "bookings_total": 290000,
+  "material_disruption_rate": 0.19843333333333332,
+  "peak_disruption_rate": 0.23684210526315788,
+  "offpeak_disruption_rate": 0.17697183830406318,
+  "baseline_auc": 0.9383017119882099,
+  "challenger_auc": 0.9487949504217373,
+  "bootstrap_auc_gap": 0.010493238433527452,
+  "bootstrap_p_value": 0.0,
+  "bootstrap_ci_low": 0.006975929635715203,
+  "bootstrap_ci_high": 0.014093882885395408,
+  "cost_threshold": 0.05451478118554499,
+  "cost_fn_egp": 4932.0,
+  "cost_fp_egp": 300.0,
+  "jed_disrupted_flights": 1004,
+  "jed_affected_bookings": 9960,
+  "jed_total_recovery_cost_egp": 4066193.0,
+  "jed_human_review_pct": 0.01887550200803213,
+  "jed_human_review_count": 188,
+  "monte_carlo_p10": 1347502.3740485513,
+  "monte_carlo_p50": 1961847.9323674925,
+  "monte_carlo_p90": 2678922.0321573825,
+  "historical_override_rate": 0.08598333333333333,
+  "fairness_age_max_gap": 0.007000000000000006,
+  "fairness_nationality_max_gap": 0.020000000000000018,
+  "band_counts": {
+    "Watch": 4545,
+    "Low": 3971,
+    "Priority": 1325,
+    "Critical": 119
+  }
+}

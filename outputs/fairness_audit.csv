@@ -1,0 +1,9 @@
+group_value,n,avg_RPI,priority_rate,group_field
+18-25,2542,23.817,0.141,Age_Band_AuditOnly
+26-40,2508,23.468,0.148,Age_Band_AuditOnly
+41-60,2450,23.617,0.144,Age_Band_AuditOnly
+60+,2460,23.796,0.147,Age_Band_AuditOnly
+Egypt,4494,23.362,0.141,Nationality_Group_AuditOnly
+Europe/Other,988,23.74,0.147,Nationality_Group_AuditOnly
+GCC,2938,23.896,0.142,Nationality_Group_AuditOnly
+Levant,1540,24.123,0.161,Nationality_Group_AuditOnly
